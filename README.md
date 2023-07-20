@@ -1,7 +1,7 @@
 # MJ
 [Majority Judgment](https://mitpress.mit.edu/9780262545716/majority-judgment/) ranking. 
 
-It includes manual fix in case of small number of evaluations that can lead to an error using the normal algorithm.
+It includes a manual fix that should be used in the case of a small number of evaluations, where an error using the normal algorithm can occur.
 
 Uses as input a google form csv file, using the multigrid option with consistent evaluations between questions. You must manually enter the evaluations in ascending order, as well as the colors you want to use for the visualization.
 
